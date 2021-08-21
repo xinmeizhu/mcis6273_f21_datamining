@@ -1,5 +1,5 @@
 # Data Mining
-Course repository.
+Course repository for MCIS6273 Data Mining.
 
 
 ## Homeworks
